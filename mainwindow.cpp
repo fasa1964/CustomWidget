@@ -212,7 +212,7 @@ void MainWindow::infoButtonClicked()
                           "<a href='https://www.gnu.org/licenses/gpl-3.0.en.html'><span style=' text-decoration: underline; color:#1e90ff;'"
                           ">GNU LPG v. 3 License</span></a></p><br>"
                           "You can download the sourcecode from "
-                          "<a href='https://doc.qt.io/qt-5/qml-color.html'><span style='text-decoration: underline; color:#1e90ff;'>github.</span></a></html>";
+                          "<a href='https://github.com/fasa1964/CustomWidget/tree/master'><span style='text-decoration: underline; color:#1e90ff;'>github.</span></a></html>";
 
 
     infoDlg->setDescryptionText(description);
